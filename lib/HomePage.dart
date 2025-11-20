@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'dart:convert';
 
-import 'add_note_page.dart';
-import 'detail_note_page.dart';
+import 'AddNotePage.dart';
+import 'DetailNotePage.dart';
 
 class HomePage extends StatefulWidget {
   final bool isDark;

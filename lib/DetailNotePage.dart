@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'edit_note_page.dart';
+import 'EditNotePage.dart';
 
 class DetailNotePage extends StatelessWidget {
   final Map note;
